@@ -1,3 +1,2 @@
 # krytoi
-test
 print('hello')
